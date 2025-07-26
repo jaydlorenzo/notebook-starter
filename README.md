@@ -1,4 +1,4 @@
-# notebook-starter
+# Notebook Starter
 
 A starter repository for Jupyter notebooks with pre-configured data science packages and project structure.
 
